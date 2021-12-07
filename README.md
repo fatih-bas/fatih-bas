@@ -9,21 +9,23 @@ Hi there, **I'm Fatih**, frontend developer candidate and tech enthusiast. I' m 
 
 #### ⚡️ Languages and Tools:
 
-![HTML5](https://img.shields.io/badge/-HTML5-orange?style=plastic&logo=html5&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-36384C?style=plastic&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-red?style=plastic&logo=bootstrap)<br>
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=plastic&logo=bootstrap&logoColor=white)<br>
 ![Jquery](https://img.shields.io/badge/-jquery-9cf?style=plastic&logo=jquery)
 ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-purple?style=plastic&logo=github)<br>
-![Sass](https://img.shields.io/badge/-Sass-pink?style=plastic&logo=sass)
-![Terminal](https://img.shields.io/badge/-Terminal-black?style=plastic&logo=Terminal)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=plastic&logo=github)<br>
+![Sass](https://img.shields.io/badge/-Sass-F26968?style=plastic&logo=sass&logoColor=white)
+![Terminal](https://img.shields.io/badge/-Terminal-black?style=plastic&logo=terminal)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-yellowgreen?style=plastic&logo=visual-studio-code)
+![Discord](https://img.shields.io/badge/-Discord-874C62?style=plastic&logo=discord&logoColor=white)
+
   
   
 #### ⚡️ I' m currently learning :   
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=plastic&logo=javascript)
 ![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react)
-![Node.JS](https://img.shields.io/badge/-Node.JS-green?style=plastic&logo=Node.js)
+![Node.JS](https://img.shields.io/badge/-Node.JS-4E6613?style=plastic&logo=Node.js&logoColor=white)
 
 
 

@@ -1,3 +1,4 @@
+## 🚀 About Me
 Hi there, **I'm Fatih**, frontend developer candidate and tech enthusiast. I' m currently **Patika.dev bootcamp** student and trying to improve my skills. I'm interest **frontend & backend.** I'm always open to collaborating on projects and innovative/disruptive ideas.
 
 

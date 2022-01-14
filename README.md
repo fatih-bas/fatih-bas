@@ -9,7 +9,6 @@ Hi there, **I'm Fatih**, frontend developer candidate and tech enthusiast. I' m 
 <br>
 
 #### ⚡️ Connect with me:
-<br>
 
 [![Twitter Badge](https://img.shields.io/badge/-fatih_bas-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/fatih_bas)](https://twitter.com/fatih_bas)
 [![Gmail Badge](https://img.shields.io/badge/-fatihbas1@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:fatihbas1@gmail.com)](mailto:fatihbas1@gmail.com)

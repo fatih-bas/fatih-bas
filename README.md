@@ -1,7 +1,4 @@
-
-<img align="right" src="https://user-images.githubusercontent.com/47625725/147831187-8aec47ae-fc86-4473-b5bc-e26c481b525a.gif">
-
-
+<img align="left" width="500" height="350" src="https://user-images.githubusercontent.com/47625725/149567020-a4c6bbbb-0c6e-4ebd-97f7-3f760462a57d.gif">
 
 ### 🚀 About Me
 Hi there, **I'm Fatih**, frontend developer candidate and tech enthusiast. I' m currently **Patika.dev bootcamp** student and trying to improve my skills. I'm interest **frontend & backend.** I'm always open to collaborating on projects and innovative/disruptive ideas.

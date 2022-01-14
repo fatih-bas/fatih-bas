@@ -1,4 +1,6 @@
+
 <img align="left" width="500" height="350" src="https://user-images.githubusercontent.com/47625725/149567020-a4c6bbbb-0c6e-4ebd-97f7-3f760462a57d.gif">
+
 
 ### 🚀 About Me
 Hi there, **I'm Fatih**, frontend developer candidate and tech enthusiast. I' m currently **Patika.dev bootcamp** student and trying to improve my skills. I'm interest **frontend & backend.** I'm always open to collaborating on projects and innovative/disruptive ideas.
@@ -7,6 +9,7 @@ Hi there, **I'm Fatih**, frontend developer candidate and tech enthusiast. I' m 
 <br>
 
 #### ⚡️ Connect with me:
+<br>
 
 [![Twitter Badge](https://img.shields.io/badge/-fatih_bas-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/fatih_bas)](https://twitter.com/fatih_bas)
 [![Gmail Badge](https://img.shields.io/badge/-fatihbas1@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:fatihbas1@gmail.com)](mailto:fatihbas1@gmail.com)

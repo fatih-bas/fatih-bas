@@ -15,6 +15,7 @@ Hi there, **I'm Fatih**, frontend developer candidate and tech enthusiast. I' m 
 [![Linkedin Badge](https://img.shields.io/badge/-fatih_bas-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fatih-bas)](https://www.linkedin.com/in/fatih-bas)
 <br>
 <br>
+<br>
 #### ⚡️ Languages and Tools:
 
 ![HTML5](https://img.shields.io/badge/-HTML5-36384C?style=plastic&logo=html5&logoColor=white)

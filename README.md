@@ -55,7 +55,7 @@ I like to learn new things. I'm interest `frontend & backend.` I'm always open t
 
                                                                                                                                 
 <div align = "center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fatih-bas&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api?username=fatih-bas&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dracula">
   <br><br>
   <img align src="https://api.visitorbadge.io/api/visitors?path=fatih-bas&label=visitors&labelColor=%23697689&countColor=%23ff8a65&style=plastic">
 </div>

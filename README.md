@@ -17,51 +17,59 @@ I like to learn new things. I'm interest `frontend & backend.` I'm always open t
 <br>
 <br>
 <br>
-  <b>⚡️ Contact with me:</b>
+  
+ <b>  ⚡️ `Contact with me:`  </b>
   <br>
   <br>
-  <a href="https://twitter.com/fatih_bas"><img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/twitter/twitter-original.svg" alt="twitter"  width="40" height="30"></a>
-  <a href="mailto:fatihbas1@gmail.com"><img src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" alt="gmail" width="40" height="30"></a>
-  <a href="https://www.linkedin.com/in/fatih-bas"><img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="30"></a>
+  [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&labelColor=black&logo=Twitter&logoColor=1DA1F2)](https://twitter.com/fatih-bas)
+  [![fatihbas1@gmail.com](https://img.shields.io/badge/fatihbas1@gmail.com-D14836?style=for-the-badge&labelColor=black&logo=gmail&logoColor=D14836)](mailto:fatihbas1@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&labelColor=black&logo=LinkedIn&logoColor=0077B5)](https://www.linkedin.com/in/fatih-bas/)
+ 
 </div>
 <br>
-<br>
-
-
-<div align="center"> <br>
-  <b> ⚡️ Languages and Tools:</b> <br>
+<div align="center">
+ 
+  <b>  ⚡️ `Languages and Tools:`  </b>
+   
   <br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width=40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/html5/html5-plain-wordmark.svg" alt="html5" width="50" height="50">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="css3" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>
- <img src="https://github.com/tailwindlabs/tailwindcss/blob/master/.github/logo-dark.svg" alt="tailwindcss" width="100" height="40"/>                       
-  <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/jquery/jquery-plain-wordmark.svg" alt="jquery" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="sass" width="50" height="50"/><br>
-  <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/git/git-plain-wordmark.svg" alt="git" width="60" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/npm/npm-original-wordmark.svg" alt="npmjs"  width="40" height="40">  
-  <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/vscode/vscode-original.svg" alt="VS Code"  width="40" height="40">
+  
+  ![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
+  ![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
+  ![Tailwind Badge](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&labelColor=black&logo=tailwind-css&logoColor=38B2AC) 
+  ![Bootstrap Badge](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=23563D7C)
+  ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=234ED1C5)
+  ![css Badge](https://img.shields.io/badge/CSS-00BFFF?&style=for-the-badge&labelColor=black&logo=css3&logoColor=00BFFF)
+  ![Html5 Badge](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)                   
+  ![JQuery Badge](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&labelColor=black&logo=jquery&logoColor=0769AD) 
+  ![sass Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&labelColor=black&logo=sass&logoColor=CC6699) 
+  ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&labelColor=black&logo=npm&logoColor=white)
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&labelColor=black&logo=git&logoColor=23F05033)
+  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&labelColor=black&logo=github&logoColor=white)
   
 </div>
 <br>
-<br>
-
- <div align="center"><strong>⚡️ I' m currently learning : </strong>
+ <div align="center">
+  
+  <b>  ⚡️ `I' m currently learning:` </b>
+  
+  <br>
+  
+  ![Redux Badge](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&labelColor=black&logo=redux&logoColor=593D88)
+  ![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
+  ![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&labelColor=black&logo=java&logoColor=ED8B00) <br>
   <br>
   <br>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="reactjs" width="50" height="50"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="50" height="50"/>
-   <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/java/java-original-wordmark.svg" alt="java" width="60" height="60"/>                                         </div>
-                                                                                                                                      
+  
+  
+   <img align src="https://api.visitorbadge.io/api/visitors?path=fatih-bas&label=visitors&labelColor=%23697689&countColor=%23ff8a65&style=for-the-badge">
+</div>                                                                                                                               
 <br>
 <br>
-
                                                                                                                                 
 <div align = "center">
   <img src="https://github-readme-stats.vercel.app/api?username=fatih-bas&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dracula">
   <br><br>
-  <img align src="https://api.visitorbadge.io/api/visitors?path=fatih-bas&label=visitors&labelColor=%23697689&countColor=%23ff8a65&style=plastic">
+ 
 </div>
 
 

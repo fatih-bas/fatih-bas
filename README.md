@@ -30,8 +30,7 @@ I like to learn new things. I'm interest `frontend & backend.` I'm always open t
 <br>
 <div align="center">
  
-  <b>  ⚡️ `Languages and Tools:`  </b>
-   
+  <b>  ⚡️ `Languages and Tools:`  </b> 
   <br>
   
   ![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
@@ -52,7 +51,6 @@ I like to learn new things. I'm interest `frontend & backend.` I'm always open t
  <div align="center">
   
   <b>  ⚡️ `I' m currently learning:` </b>
-  
   <br>
   
   ![Redux Badge](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&labelColor=black&logo=redux&logoColor=593D88)

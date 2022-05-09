@@ -21,7 +21,6 @@ I like to learn new things. I'm interest `frontend & backend.` I'm always open t
  <b>  ⚡️ `Contact with me:`  </b>
   <br>
   <br>
-  
   [![fatihbas1@gmail.com](https://img.shields.io/badge/fatihbas1@gmail.com-D14836?style=for-the-badge&labelColor=black&logo=gmail&logoColor=D14836)](mailto:fatihbas1@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&labelColor=black&logo=LinkedIn&logoColor=0077B5)](https://www.linkedin.com/in/fatih-bas/)
   [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&labelColor=black&logo=HackerRank&logoColor=2EC866)](https://www.hackerrank.com/fatih_bas)

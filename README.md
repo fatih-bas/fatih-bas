@@ -1,23 +1,24 @@
+<div align="center">
+  <img width="500" height="350" src="https://user-images.githubusercontent.com/47625725/149567020-a4c6bbbb-0c6e-4ebd-97f7-3f760462a57d.gif" />
+</div>
 
-  <img align="left" width="500" height="350" src="https://user-images.githubusercontent.com/47625725/149567020-a4c6bbbb-0c6e-4ebd-97f7-3f760462a57d.gif">
 
-
-
-<h2> 🚀 About Me </h2>
-<br>
-
-Hi there, `I'm Fatih,` frontend developer candidate and tech enthusiast. I' m currently at `Patika.dev Bootcamp Acceleration Program` student and trying to improve my skills. 
-I like to learn new things. I'm interest `frontend & backend.` I'm always open to collaborating on projects and innovative/disruptive ideas.
+<div>
+  <h2> 🚀 About Me </h2>
+  
+  Hi there, `I'm Fatih,` frontend developer candidate and tech enthusiast. 
+  I' m currently at `Patika.dev Bootcamp Acceleration Program` student and trying to improve my skills. 
+  I like to learn new things. I'm interest `frontend & backend.` I'm always open to collaborating on projects and innovative/disruptive ideas.
+</div>
 
 <div align="center">
+
   <br>
   <br>
   <br>
-<br>
-<br>
-<br>
-<br>
-  
+  <br>
+  <br>
+
  <b>  ⚡️ `Contact with me:`  </b>
   <br>
   <br>

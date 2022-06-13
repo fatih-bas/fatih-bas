@@ -36,8 +36,8 @@
   ![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
   ![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
   ![Tailwind Badge](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&labelColor=black&logo=tailwind-css&logoColor=38B2AC) 
-  ![Bootstrap Badge](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=23563D7C)
-  ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&labelColor=black&logo=chakraui&logoColor=234ED1C5) <br>
+  ![Bootstrap Badge](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=23563D7C) <br>
+  ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&labelColor=black&logo=chakraui&logoColor=234ED1C5)
   ![Html5 Badge](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)
   ![css Badge](https://img.shields.io/badge/CSS-00BFFF?&style=for-the-badge&labelColor=black&logo=css3&logoColor=00BFFF)
   ![sass Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&labelColor=black&logo=sass&logoColor=CC6699) 

@@ -53,8 +53,10 @@
   <br>
   
   
+  ![Typescript Badge](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007ACC)
+  ![Nextjs Badge](https://img.shields.io/badge/-Nextjs-000000?style=for-the-badge&labelColor=black&logo=next.js&logoColor=white)
   ![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
-  ![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&labelColor=black&logo=java&logoColor=ED8B00) <br>
+ 
   <br>
   <br>
   

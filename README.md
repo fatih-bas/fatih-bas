@@ -6,9 +6,9 @@
 <div>
   <h2> 🚀 About Me </h2>
   
-  Hi there, `I'm Fatih,` frontend developer candidate and tech enthusiast. 
+  Hi there, `I'm Fatih,` front-end developer candidate and tech enthusiast. 
   I' m currently at `Patika.dev Bootcamp Acceleration Program` student and trying to improve my skills. 
-  I like to learn new things. I'm interest `frontend & backend.` I'm always open to collaborating on projects and innovative/disruptive ideas.
+  I like to learn new things. I'm interest `front-end & back-end.` I'm always open to collaborating on projects and innovative/disruptive ideas.
 </div>
 
 <div align="center">
